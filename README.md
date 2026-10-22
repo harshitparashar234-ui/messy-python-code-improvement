@@ -31,5 +31,3 @@ python improved_code.py
 
 ## Author
 Harshit parashar
-
-GitHub: https://github.com/ArnavB3200
